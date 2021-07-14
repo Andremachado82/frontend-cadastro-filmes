@@ -1,0 +1,16 @@
+/* .mat-card-image {
+  width: 182px;
+  height: 268px;
+  margin: auto;
+  display: block;
+} */
+
+.css-card-image {
+  padding-top: 20px;
+  width: 182px;
+  height: 268px;
+  margin: auto;
+  display: block;
+}
+
+
